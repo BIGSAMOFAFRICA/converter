@@ -1,0 +1,23 @@
+currencies = [
+    "NGN",
+    "USD",
+     "GBP",
+     "EUR",
+      "CAD", 
+      "AUD",
+     "JPY",
+      "CHF",
+      "CNY", 
+     "INR",
+      "BRL", 
+      "ZAR",
+       "RUB", 
+     "SAR",
+      "SGD", 
+      "KRW",
+      "MXN",
+       "AED",
+       "TRY", 
+       "NZD",
+        "HKD"
+]
